@@ -2,3 +2,9 @@ avatar:
   url: /images/headphoto.jpg # 你的头像图片地址
   rounded: true
   opacity: 1
+
+head:
+  css:
+    custom: /css/custom.css
+
+favicon: /favicon.ico
